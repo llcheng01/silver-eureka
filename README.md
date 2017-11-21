@@ -1,0 +1,2 @@
+# silver-eureka
+Django bootstrap
